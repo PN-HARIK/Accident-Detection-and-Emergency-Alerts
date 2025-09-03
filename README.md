@@ -25,6 +25,7 @@ Result Visualization
 SMS Alert Notification (with cooldown)
 
 Tech Stack:
+
 Python
 
 PyTorch & TorchVision
