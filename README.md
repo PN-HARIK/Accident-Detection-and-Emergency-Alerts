@@ -12,7 +12,8 @@ Features
 
 🛑 Cooldown mechanism to prevent alert spamming
 
-Project Architecture
+Project Architecture:
+
 Video Input
 
 Frame Preprocessing
@@ -23,7 +24,7 @@ Result Visualization
 
 SMS Alert Notification (with cooldown)
 
-Tech Stack
+Tech Stack:
 Python
 
 PyTorch & TorchVision
